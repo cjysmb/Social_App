@@ -6,7 +6,7 @@ Clone this repository by typing this command on your terminal
 
 git clone https://github.com/cjysmb/Social_App.git
 
-#To Run this project
+<b>To Run this project
 1.Create a virtual environment for your project.
   e.g mkvirtualenv sampleEnv -p `which python3`
 2.Install django and social-app in your virtualenv
